@@ -20,7 +20,7 @@ I'm not coding, I'm either reading a novel, listening to music or watching a mov
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OkoloArt&hide=css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=OkoloArt&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=OkoloArt&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **OkoloArt/OkoloArt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
