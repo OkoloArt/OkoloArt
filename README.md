@@ -9,6 +9,14 @@ I create Android Apps, mostly using the Java programming language.
 Looking forward to reaching and helping more people by sharing my knowledge. when
 I'm not coding, I'm either reading a novel, listening to music or watching a movie.
 
+---
+🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/android.svg" alt="Android Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="Html5 Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="50" height="50"/> 
+
+
+---
+
 <!--
 **OkoloArt/OkoloArt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
