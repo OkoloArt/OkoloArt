@@ -1,6 +1,13 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Okolo Arthur!
 ---
 ![Twitter Follow](https://img.shields.io/twitter/follow/Okolo_Arthur?style=social)
+
+A Hardworking and Dedicated Junior Android Developer. Junior Level experience with the technologies mentioned in the **toolbox** below. 
+
+I create Android Apps, mostly using the Java programming language. 
+
+Looking forward to reaching and helping more people by sharing my knowledge. when
+I'm not coding, I'm either reading a novel, listening to music or watching a movie.
 <!--
 **OkoloArt/OkoloArt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
