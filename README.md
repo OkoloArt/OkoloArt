@@ -12,7 +12,8 @@ I'm not coding, I'm either reading a novel, listening to music or watching a mov
 ---
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/android.svg" alt="Android Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="Html5 Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="50" height="50"/> 
+
 
 ---
 <!--
