@@ -18,7 +18,7 @@ I'm not coding, I'm either reading a novel, listening to music or watching a mov
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OkoloArt&hide=css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=OkoloArt&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
