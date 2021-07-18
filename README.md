@@ -12,8 +12,8 @@ I'm not coding, I'm either reading a novel, listening to music or watching a mov
 ---
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/android.svg" alt="Android Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="Html5 Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/dart.svg" alt="Dart Logo" width="50" height="50"/> 
-
+<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/android.svg" alt="Android Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="Html5 Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/dart.svg" alt="Dart Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/swift-15.svg" alt="Swift Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter Logo" width="50" height="50"/> 
+ 
 ---
 
 ## &#x1f4c8; My GitHub Stats
