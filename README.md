@@ -1,18 +1,23 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Okolo Arthur!
----
+### Hi there, I'm Arthur! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![Twitter Follow](https://img.shields.io/twitter/follow/Okolo_Arthur?style=social)
 
-A Hardworking and Dedicated Junior Android Developer. Junior Level experience with the technologies mentioned in the **toolbox** below. 
+I'm a Native Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
-I create Android Apps, mostly using the Java programming language. 
+I create Android Apps, mostly using the Kotlin programming language. Passionate about learning, building and teaching tech.
 
-Looking forward to reaching and helping more people by sharing my knowledge. when
-I'm not coding, I'm either reading a novel, listening to music or watching a movie.
+When I'm not coding, I'm either reading a novel, listening to music or watching a movie.
+
+- 👯 I’m looking to remote job opportunites to contribute my building and teaching skills as a team player in an awesome company.
+- 🌱 I’m currently improving my android skills while also learning Compose
+- 😄 Pronouns: he/him
+- 📫 How to reach me:
+   - Twitter - [Arthur](https://twitter.com/Okolo_Arthur)
 
 ---
+
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/android.svg" alt="Android Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="Html5 Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/dart.svg" alt="Dart Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/swift-15.svg" alt="Swift Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/android.svg" alt="Android Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin Logo" width="50" height="50"/>
  
 ---
 
