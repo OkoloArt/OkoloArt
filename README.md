@@ -7,7 +7,7 @@ I create Android Apps, mostly using the Kotlin programming language. Passionate 
 
 When I'm not coding, I'm either reading a novel, listening to music or watching a movie.
 
-- 👯 I’m looking to remote job opportunites to contribute my building and teaching skills as a team player in an awesome company.
+- 👯 I’m looking to remote job opportunities to contribute my building and teaching skills as a team player in an awesome company.
 - 🌱 I’m currently improving my android skills while also learning Git
 - 😄 Pronouns: he/him
 - 📫 How to reach me:
